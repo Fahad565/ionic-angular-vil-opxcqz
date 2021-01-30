@@ -1,0 +1,54 @@
+.cool-title {
+  margin-left: 22%;
+}
+
+.back-icon {
+  border-radius: 50px;
+  margin-bottom: 10px;
+}
+.h1 {
+  font-size: 12px;
+  font-family: sans-serif;
+}
+.bottle-one {
+  height: 100%;
+  width: 100%;
+}
+
+.btn-one {
+  margin-left: 10%;
+
+}
+.brand1-name {
+  justify-content: center;
+  margin-left: 10%;
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+.brand1-capacity {
+  justify-content: center;
+  margin-left: 10%;
+  font-weight: bold;
+}
+.brand1-price {
+  margin-left: 10%;
+}
+
+.btn-two {
+  margin-left: 10%;
+
+}
+.brand2-name {
+  justify-content: center;
+  margin-left: 10%;
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+.brand2-capacity {
+  justify-content: center;
+  margin-left: 10%;
+  font-weight: bold;
+}
+.brand2-price {
+  margin-left: 10%;
+}
