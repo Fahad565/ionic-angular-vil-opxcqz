@@ -13,7 +13,7 @@ export class LoginComponent implements OnInit {
 
   presentOrder() {
     let alert = this.alertCtrl.create({
-      title: "Order Summary",
+      head: "Order Summary",
       subTitle: ""
     });
   }
